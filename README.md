@@ -1,2 +1,20 @@
-# -python-calculator-
-calculator.py — The main app with 6 operations, input validation, and a clean menu README.md — A professional README for your GitHub repo (just replace "Your Name" and username) test_calculator.py — A test file to verify your code works correctly
+
+========================================
+       PYTHON CALCULATOR APP
+========================================
+Select an operation:
+  1. Addition       (+)
+  2. Subtraction    (-)
+  3. Multiplication (*)
+  4. Division       (/)
+  5. Power          (^)
+  6. Modulus        (%)
+  7. Exit
+========================================
+Enter your choice (1-7): 1
+Enter first number: 10
+Enter second number: 5
+
+----------------------------------------
+Result: 10.0 + 5.0 = 15
+---------------------------------------- 
